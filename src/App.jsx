@@ -70,6 +70,7 @@ function Layout({ children }) {
     </div>
   );
 }
+// Home page with a welcome message and portfolio mission.
 
 function Home() {
   return (
