@@ -1,0 +1,49 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj
+<< /Length 392 >>
+stream
+BT
+/F1 22 Tf
+72 720 Td
+(AJ Morgan - Resume) Tj
+/F1 12 Tf
+0 -35 Td
+(Software Engineering Technician | Toronto, Ontario) Tj
+0 -25 Td
+(Email: aj@gmail.com | Phone: 902-0000000) Tj
+0 -45 Td
+(Education) Tj
+0 -20 Td
+(Centennial College - Software Engineering Technician, 2025-2027) Tj
+0 -45 Td
+(Skills) Tj
+0 -20 Td
+(Python, C, HTML/CSS, JavaScript, SQL, Linux, GitHub, Jira) Tj
+0 -45 Td
+(Projects) Tj
+0 -20 Td
+(Library Booking Website, Weather Dashboard, Event Planner) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000062 00000 n 
+0000000121 00000 n 
+0000000290 00000 n 
+0000000360 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+800
+%%EOF
